@@ -7,8 +7,10 @@ Roadmap:
 3) v0.0.* - calculate avg. timings
 4) v1.0.0 - release generator, EVM on CPU
 5) v1.*.0 - CPU/GPU based generator
-6) v2.0.0 - multichain CPU/GPU based generator
+6) v1.*.0 - Smart Contracts vanity support
+7) v2.0.0 - multichain CPU/GPU based generator
 
 TODO: \
 Hardware speedtest + timings calculation based on it \
-OPTIMISATIONS!!!
+OPTIMISATIONS!!! \
+Containers + fast install on Linux
